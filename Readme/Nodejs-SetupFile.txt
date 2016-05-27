@@ -1,0 +1,27 @@
+Install nodejs
+Add JSONView extention for chrome
+Add post-man extention for chrome
+
+
+npm init  :: setup configfile
+node app.js :: for configration check
+npm install express --save
+npm install gulp --save
+npm install gulp-nodemon --save
+npm install body-parser --save
+
+//for unit test
+
+npm install gulp-mocha should sinon --save
+
+//integration test
+
+npm install supertest gulp-env --save-dev
+
+
+gulp :: running server (will automaticaly detect and restart the change
+
+npm install mongoose --save
+cmd --> goto --> C:\Program Files\MongoDB\Server\3.2\bin -->run mongod   :: to start mongo server
+
+
